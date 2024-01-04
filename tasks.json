@@ -2,7 +2,7 @@
   "setupTasks": [],
   "tasks": {
     "run": {
-      "name": "python3 main.py",
+      "name": "run",
       "command": "python3 ./main.py",
       "runAtStart": true,
       "preview": {
